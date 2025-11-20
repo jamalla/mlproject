@@ -1,4 +1,4 @@
-# mlproject
+# Student Exam Performance Prediction (ML Project)
 
 A small machine-learning project scaffold with space for data, models, and experiments.
 
@@ -9,9 +9,12 @@ code, and experiment artifacts. It's intended as a lightweight template you can 
 
 Quick start
 -----------
+- Create local virtual environment (python=3.11)
 - Install dependencies (add your project's requirements): `pip install -r requirements.txt`
 - Prepare data in `data/`
-- Run training: `python train.py`
+- Run training: `python app.py`
+- Open `http://127.0.0.1:5000/`
+- Open `http://127.0.0.1:5000/predictdata`
 
 Project structure
 -----------------
