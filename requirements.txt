@@ -10,4 +10,5 @@ jupyter
 xgboost
 catboost
 scikit-learn
--e .
+dill
+#-e .
