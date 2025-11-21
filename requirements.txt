@@ -10,4 +10,6 @@ jupyter
 xgboost
 catboost
 scikit-learn
--e .
+dill
+Flask
+#-e .
