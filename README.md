@@ -12,7 +12,7 @@ Quick start
 - Create local virtual environment (python=3.11)
 - Install dependencies (add your project's requirements): `pip install -r requirements.txt`
 - Prepare data in `data/`
-- Run training: `python app.py`
+- Run: `python app.py`
 - Open `http://127.0.0.1:5000/`
 - Open `http://127.0.0.1:5000/predictdata`
 
